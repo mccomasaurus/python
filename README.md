@@ -1,2 +1,2 @@
-# boostnote
+# Python Scripts
 notes
