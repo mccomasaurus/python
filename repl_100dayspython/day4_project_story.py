@@ -1,7 +1,7 @@
 print("#### YOUR ADVENTURE SIMULATOR ####")
 print("I'll be asking you some questions, and we will take your answers and turn it into a story where you are the main character")
 print()
-
+print('##################################')
 name = input("What will be your Hero's name?: ")
 super_power = input("What do you want your super power to be?: ")
 kingdom = input("What will be the name of the kingdom you are from?: ")

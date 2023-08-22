@@ -2,7 +2,7 @@ print("AFFIRMATIONS CHALLANGE")
 print("----------------------")
 print()
 name = input("Whats your name? ")
-if name == "matt" or name == "Matt" or name == "matthew" or name == "Matthew":
+if name == "matt" or name == "Matt" or name == "matthew" or name == "Matthew" or name == "anelisse" or name == "Anelisse" or name == "Alina" or name == "alina":
   print("Hello",name,"!")
   mood = input("How are you feeling today on a scale from 1-10, with 1 being the worst and 10 being the best? ")
   if mood == "1" or mood == "2" or mood =="3":
